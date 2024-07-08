@@ -34,8 +34,6 @@
 
 
 
-
-
 <p style="font-family: 'Calibri'; font-size:20px; margin: 0 auto;" align="center"><strong>CÓDIGO</strong></p>
 
 <div align="center">
@@ -43,8 +41,6 @@
   	<a href="https://github.com/JMPinillos/TFE_MS-Insight/tree/main/Code/MS-Insight_Backend" target="_blank"><img src="https://img.shields.io/badge/Backend-V3.0-512BD5?logo=.NET&logoColor=white"></a>
   	<a href="https://github.com/JMPinillos/TFE_MS-Insight/tree/main/Code/MS-Insight_Frontend" target="_blank"><img src="https://img.shields.io/badge/Frontend-V1.2-09D9FD?logo=React&logoColor=white"></a>
 </div>
-
-
 
 
 ## Resumen
@@ -761,8 +757,6 @@ Esta aplicación es muy similar a la analizada anteriormente, aunque tiene la ve
     </tr>
   </table>
 </div>
-
-
 
 
 A la vista del análisis que se ha realizado de estas 10 soluciones comercializadas para la gestión y manejo de datos de salud, podemos concluir que ninguna de ellas se adapta y cubre todas las necesidades que el equipo investigador expresó y que llevaron al desarrollo de MS-Insigth. 
@@ -1716,10 +1710,9 @@ La implementación del API Gateway permitió gestionar eficazmente las peticione
 </div>
 
 
-
 **Estimación detallada**
 
- <div>
+ <div style="display: table; margin: 0 auto;" align="center">
   <table cellpadding="5" cellspacing="0" style="border-collapse:collapse; border-top:2px solid #BFBFBF; border-bottom:2px solid #BFBFBF; border-left:2px solid #BFBFBF; border-right:2px solid #BFBFBF;">
     <tr>
       <th style="border-bottom:2px solid #BFBFBF; background-color:#f5f5f5; border-right:2px solid #BFBFBF;">Nombre</th>
@@ -1830,8 +1823,6 @@ Storage Service (S3)</strong></td>
 </div>
 
 
-
-
 ## 6. Conclusiones y trabajo futuro
 
 En el capítulo final de este trabajo, se presentan las conclusiones y las direcciones futuras que podrían tomarse para ampliar y mejorar la plataforma desarrollada. Este apartado evalúa cómo se han alcanzado los objetivos planteados inicialmente y cómo la tecnología implementada ha contribuido a la atención médica y a la investigación de la esclerosis múltiple, subrayando el impacto positivo en la calidad de vida de los pacientes y en la eficiencia de los procesos médicos y científicos. Además, se exploran posibles mejoras y expansiones del sistema que no solo extenderían sus funcionalidades actuales, sino que también abordarían nuevas necesidades emergentes en el tratamiento y gestión de la esclerosis múltiple, garantizando así que la plataforma continúe evolucionando en línea con los avances tecnológicos y las necesidades cambiantes de los usuarios.
@@ -1930,18 +1921,10 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
  
 
-
-
-
-
-
-
-
-
 ## Anexo A. Diccionario de datos
 
-<div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+<div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th style="text-align: center; background-color: #0098CD; color:white;">Nombre de la base de datos:</th>
       <th style="text-align: center;">MS_Insight</th>
@@ -1953,10 +1936,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
   </table>
 </div>
 
-
-
-<div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+<div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2009,8 +1990,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-<div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+<div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2063,8 +2044,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-<div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+<div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2117,8 +2098,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-<div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+<div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2214,8 +2195,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
- <div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+<div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2313,8 +2294,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-  <div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+<div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2403,8 +2384,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-   <div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+<div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2468,8 +2449,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-  <div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+  <div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2524,8 +2505,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-<div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+<div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2600,8 +2581,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-  <div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+  <div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2669,8 +2650,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-   <div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+   <div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2759,8 +2740,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-   <div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+   <div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2861,8 +2842,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-   <div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+   <div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2963,8 +2944,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-   <div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+   <div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -3064,6 +3045,7 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 </div>
 
 
+
 ## Anexo B. Esquema lógico de la base de datos
 
 
@@ -3076,8 +3058,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
- <div>
-  <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
+ <div style="display: table; margin: 0 auto;" align="center">
+  <table>
     <tr>
       <th style="background-color: #white; border-top:hidden; border-left:hidden;"></th>
       <th style="background-color: #0098CD; color:white;">Tipo</th>
@@ -3328,7 +3310,6 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
     </tr>
   </table>
 </div>
-
 
 
 ## Índice de acrónimos
