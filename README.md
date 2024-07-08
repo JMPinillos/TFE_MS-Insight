@@ -1761,6 +1761,22 @@ La implementación del API Gateway permitió gestionar eficazmente las peticione
       <td colspan="5" style="background-color:white; border-bottom:2px solid #BFBFBF; border-left:hidden; border-right:hidden;"><strong>Resumen de la configuración</strong>: Tamaño de memoria caché (GB) (Ninguno), Unidades de mensaje WebSocket (miles), Unidades de solicitud de la API REST (número exacto), Solicitudes (5000 por mes)</td>
     </tr>
     <tr>
+      <td style="background-color:white; border-bottom:hidden; border-left:hidden; border-right:hidden;"><strong>AWS EC2</strong></td>
+      <td style="background-color:white; border-bottom:hidden; border-right:hidden;"><center>No se ha aplicado ningún grupo</center></td>
+      <td style="background-color:white; border-bottom:hidden; border-right:hidden;"><center>EU (Spain)</center></td>
+      <td style="text-align:right; background-color:white; border-bottom:hidden; border-right:hidden;">0,00 USD</td>
+      <td style="text-align:right; background-color:white; border-bottom:hidden; border-right:hidden;">3,47 USD</td>
+    </tr>
+    <tr>
+      <td colspan="5" style="background-color:white; border-bottom:hidden; border-left:hidden; border-right:hidden;"><strong>Estado</strong>: -</td>
+    </tr>
+    <tr>
+      <td colspan="5" style="background-color:white; border-bottom:hidden; border-left:hidden; border-right:hidden;"><strong>Descripción</strong>: EC2</td>
+    </tr>
+    <tr>
+      <td colspan="5" style="background-color:white; border-bottom:2px solid #BFBFBF; border-left:hidden; border-right:hidden;"><strong>Resumen de la configuración</strong>: Tenencia (Instancias compartidas), Sistema operativo (Linux), Carga de trabajo (Consistent, Número de instancias: 1), Instancia EC2 por adelantado (t3.micro), Pricing strategy (On-Demand Utilization: 10 Hours/Day), Habilitar la monitorización (desactivado), DT Entrada: Not selected (0 TB al mes), DT Salida: Not selected (0 TB al mes), DT Intra-región: (0 TB al mes)</td>
+    </tr>
+    <tr>
       <td style="background-color:white; border-bottom:hidden; border-left:hidden; border-right:hidden;"><strong>AWS Lambda</strong></td>
       <td style="background-color:white; border-bottom:hidden; border-right:hidden;"><center>No se ha aplicado ningún grupo</center></td>
       <td style="background-color:white; border-bottom:hidden; border-right:hidden;"><center>EU (Spain)</center></td>
@@ -1812,6 +1828,7 @@ Storage Service (S3)</strong></td>
     </tr>
   </table>
 </div>
+
 
 
 
