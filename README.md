@@ -1923,8 +1923,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 ## Anexo A. Diccionario de datos
 
-<div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th style="text-align: center; background-color: #0098CD; color:white;">Nombre de la base de datos:</th>
       <th style="text-align: center;">MS_Insight</th>
@@ -1936,8 +1936,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
   </table>
 </div>
 
-<div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -1990,8 +1990,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-<div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2044,8 +2044,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-<div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2098,8 +2098,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-<div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2195,8 +2195,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-<div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2294,8 +2294,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-<div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2384,8 +2384,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-<div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2449,8 +2449,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-  <div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2505,8 +2505,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-<div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2581,8 +2581,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-  <div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2650,8 +2650,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-   <div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2740,8 +2740,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-   <div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2842,8 +2842,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-   <div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -2944,8 +2944,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
-   <div style="display: table; margin: 0 auto;" align="center">
-  <table>
+<div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th colspan="9" style="text-align: center; background-color: #0098CD; color:white;">CARACTERÍSTICAS DE LA TABLA</th>
     </tr>
@@ -3046,6 +3046,7 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
+
 ## Anexo B. Esquema lógico de la base de datos
 
 
@@ -3058,8 +3059,8 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
 
 
 
- <div style="display: table; margin: 0 auto;" align="center">
-  <table>
+ <div>
+  <table table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;">
     <tr>
       <th style="background-color: #white; border-top:hidden; border-left:hidden;"></th>
       <th style="background-color: #0098CD; color:white;">Tipo</th>
@@ -3310,6 +3311,7 @@ Walton, C., King, R., Rechtman, L., Kaye, W., Leray, E., Marrie, R. A., Robertso
     </tr>
   </table>
 </div>
+
 
 
 ## Índice de acrónimos
