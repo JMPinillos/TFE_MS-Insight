@@ -27,10 +27,11 @@
     </tr>
     <tr style="background-color:white">
       <td>Repositorio del código fuente:</td>
-      <td><a href="https://github.com/JMPinillos/TFE_MS-Insight" target="_blank">TFE_MS-Insight</a></td>
+      <td><a href="https://jmpinillos.github.io/TFE_MS-Insight/" target="_blank">TFE_MS-Insight</a></td>
     </tr>
   </table>
 </div>
+
 
 
 
