@@ -23,7 +23,7 @@
     </tr>
     <tr style="background-color:white">
       <td>Fecha:</td>
-      <td>7 de julio de 2024</td>
+      <td>17 de julio de 2024</td>
     </tr>
     <tr style="background-color:white">
       <td>Repositorio del código fuente:</td>
@@ -31,6 +31,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
