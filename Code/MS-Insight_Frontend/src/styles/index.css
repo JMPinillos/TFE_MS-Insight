@@ -1,0 +1,66 @@
+/* custom.css */
+
+[data-theme="light"] {
+    --bs-body-bg: #eef1f5;
+    /* Color de fondo oscuro para el tema Dark */
+}
+
+
+
+.main-container {
+    margin-top: 80px;
+    /* Mantén el margen superior */
+    margin-left: auto;
+    /* Centrar horizontalmente */
+    margin-right: auto;
+    /* Centrar horizontalmente */
+    padding: 20px;
+    /* Añade un padding para márgenes internos seguros */
+    max-width: 96%;
+    /* Ajusta este valor según necesites */
+    box-sizing: border-box;
+    /* Asegúrate de que el padding no afecte el ancho total */
+    height: calc(100vh - 100px);
+    /* Ajusta el 100px según tus necesidades, considerando el margen superior y cualquier otro elemento que quieras considerar */
+    overflow-y: auto;
+    /* Añade scroll si el contenido excede la altura */
+}
+
+
+.dropdown-menu-custom {
+    max-height: 25vh;
+    overflow-y: auto;
+}
+
+/* styles.css */
+.search-box {
+    width: 95%;
+    padding: 10px;
+    margin: 5px 5px;
+    box-sizing: border-box;
+    border-color: lightgray;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    outline: none;
+}
+
+#navbar-container {
+    width: 100%;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+/* Sobrescribe el borde redondeado para todos los componentes relevantes */
+.btn,
+.card,
+.dropdown-menu {
+    border-radius: 5px !important;
+}
+
+
+/* Añade sombras a los cards */
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
