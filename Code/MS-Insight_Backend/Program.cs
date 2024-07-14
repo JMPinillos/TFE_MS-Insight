@@ -9,6 +9,12 @@ using MsInsightApi.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configura Kestrel para escuchar en todas las interfaces
+builder.WebHost.UseKestrel(serverOptions =>
+{
+    serverOptions.ListenAnyIP(5000); // Escucha en el puerto 5000 en todas las interfaces
+});
+
 // Cargar configuraciones
 builder.Configuration
     .SetBasePath(Directory.GetCurrentDirectory())
@@ -37,8 +43,8 @@ builder.Services.AddCors(options =>
         builder =>
         {
             builder.AllowAnyOrigin() // Permite todos los orígenes
-                .AllowAnyMethod() // Permite todos los métodos HTTP
-                .AllowAnyHeader(); // Permite todas las cabeceras
+                   .AllowAnyMethod() // Permite todos los métodos HTTP
+                   .AllowAnyHeader(); // Permite todas las cabeceras
         });
 });
 
@@ -53,6 +59,9 @@ builder.Services.AddScoped<IViewsRepository, ViewRepository>();
 builder.Services.AddScoped<IFilesManagementService, FilesManagementService>();
 
 var app = builder.Build();
+
+// Configuración para escuchar en todas las interfaces
+app.Urls.Add("http://*:5000");
 
 // Usar CORS
 app.UseCors("AllowAllOrigins");
