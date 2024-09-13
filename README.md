@@ -38,10 +38,11 @@
 <p style="font-family: 'Calibri'; font-size:20px; margin: 0 auto;" align="center"><strong>CÓDIGO</strong></p>
 
 <div align="center">
-  	<a href="https://github.com/JMPinillos/TFE_MS-Insight/tree/main/Code/MS-Insight_ETL" target="_blank"><img src="https://img.shields.io/badge/ETL-V2.1-FF7F00?logo=AWS%20Lambda&logoColor=white"></a>
-  	<a href="https://github.com/JMPinillos/TFE_MS-Insight/tree/main/Code/MS-Insight_Backend" target="_blank"><img src="https://img.shields.io/badge/Backend-V3.0-512BD5?logo=.NET&logoColor=white"></a>
-  	<a href="https://github.com/JMPinillos/TFE_MS-Insight/tree/main/Code/MS-Insight_Frontend" target="_blank"><img src="https://img.shields.io/badge/Frontend-V1.2-09D9FD?logo=React&logoColor=white"></a>
+  	<a href="https://github.com/JMPinillos/TFE_MS-Insight/tree/main/Code/MS-Insight_ETL" target="_blank"><img src="https://img.shields.io/badge/ETL-V2.1.0-FF7F00?logo=AWS%20Lambda&logoColor=white"></a>
+  	<a href="https://github.com/JMPinillos/TFE_MS-Insight/tree/main/Code/MS-Insight_Backend" target="_blank"><img src="https://img.shields.io/badge/Backend-V3.1.2-512BD5?logo=.NET&logoColor=white"></a>
+  	<a href="https://github.com/JMPinillos/TFE_MS-Insight/tree/main/Code/MS-Insight_Frontend" target="_blank"><img src="https://img.shields.io/badge/Frontend-V1.3.2-09D9FD?logo=React&logoColor=white"></a>
 </div>
+
 
 
 ## Resumen
