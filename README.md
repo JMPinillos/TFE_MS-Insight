@@ -396,7 +396,7 @@ Además, se propuso el desarrollo de una aplicación diseñada para la visualiza
 
  
 
-### 2.2.  Estado del arte
+### 2.2. Estado del arte
 
 La recolección de datos de pacientes a través de cuestionarios y su unificación con datos de la historia clínica electrónica (EHR, *Electronic Health Record*) es un campo en expansión que busca mejorar la atención al paciente y la eficiencia clínica. Los PROMs son un ejemplo de cómo se pueden integrar estos datos en la práctica clínica (Coyle et al., 2017).
 
